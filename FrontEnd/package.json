@@ -1,0 +1,12 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Pixels is a dark-themed SaaS template with using smooth Framer Motion animations and pink color theme, crafted for startups and modern products that want a bold and unique look with modern webite design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
